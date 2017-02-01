@@ -1,7 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 
 
 
@@ -479,6 +479,13 @@ h6,
 #menu-6 .close-icon::after {
   background-color: #ffffff;
 }
+#header2-y .mbr-section-text {
+  color: #90a878;
+  font-size: 60px;
+}
+#header2-y .mbr-section-title {
+  color: #8ba174;
+}
 #menu-8 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -885,7 +892,7 @@ h6,
 }
 #header1-w .mbr-section-lead {
   font-size: 15px;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Open Sans', sans-serif;
 }
 #header1-w .mbr-section-title {
   font-size: 48px;
