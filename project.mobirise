@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "photoshop.html",
     "name": "alexandrarivero",
     "theme": {
       "name": "mobirise3",
@@ -264,7 +264,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/60-project-2000x2912-800x1164.jpg",
                 "image": "@PROJECT_PATH@/assets/images/60-project-2000x2912.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Animated",
@@ -275,6 +275,16 @@
                 "image": "@PROJECT_PATH@/assets/images/mermaid-logo-2000x2912.jpg",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vw-project-2000x2912-800x1164.jpg",
+                "image": "@PROJECT_PATH@/assets/images/vw-project-2000x2912.jpg",
+                "caption": "Type caption here",
+                "active": true
               }
             ],
             "spacing": "1",
@@ -355,25 +365,37 @@
                 "thumb": "@PROJECT_PATH@/assets/images/lana-project-2000x2912-800x1164.jpg",
                 "image": "@PROJECT_PATH@/assets/images/lana-project-2000x2912.jpg",
                 "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-                "caption": "Type caption here"
+                "active": false
               },
               {
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/website-outside-2000x1545-800x618.jpg",
+                "image": "@PROJECT_PATH@/assets/images/website-outside-2000x1545.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/retouch-project-2000x2912-800x1164.jpg",
+                "image": "@PROJECT_PATH@/assets/images/retouch-project-2000x2912.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/alexandra-rivero-poster-2000x2962-800x1184.jpg",
+                "image": "@PROJECT_PATH@/assets/images/alexandra-rivero-poster-2000x2962.jpg",
+                "caption": "Type caption here",
+                "active": true
               }
             ],
             "spacing": "2",
@@ -1358,7 +1380,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/water-rush-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/water-rush-2000x2000.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Beautiful",
@@ -1378,7 +1400,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/miami-ocean-line-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/miami-ocean-line-2000x2000.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Responsive",
