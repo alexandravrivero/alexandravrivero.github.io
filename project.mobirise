@@ -241,10 +241,40 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/14-project-2000x2912-800x1164.jpg",
+                "image": "@PROJECT_PATH@/assets/images/14-project-2000x2912.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/30-project-2000x2912-800x1164.jpg",
+                "image": "@PROJECT_PATH@/assets/images/30-project-2000x2912.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/60-project-2000x2912-800x1164.jpg",
+                "image": "@PROJECT_PATH@/assets/images/60-project-2000x2912.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mermaid-logo-2000x2912-800x1164.jpg",
                 "image": "@PROJECT_PATH@/assets/images/mermaid-logo-2000x2912.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ],
             "spacing": "1",
@@ -295,7 +325,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/illusion-project-2000x2978-800x1191.jpg",
                 "image": "@PROJECT_PATH@/assets/images/illusion-project-2000x2978.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Animated",
@@ -322,9 +352,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/lana-project-2000x2912-800x1164.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lana-project-2000x2912.jpg",
+                "caption": "Type caption here",
+                "active": true
               },
               {
                 "tags": "Responsive",
