@@ -553,6 +553,9 @@ h6,
 #menu-8 .close-icon::after {
   background-color: #ffffff;
 }
+#contacts1-n P {
+  font-size: 13px;
+}
 #menu-a .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -922,6 +925,9 @@ h6,
 }
 #social-buttons2-3 .mbr-section-title {
   color: #ffffff;
+}
+#contacts1-n P {
+  font-size: 13px;
 }
 #menu-1b .hide-buttons .nav-btn {
   display: none !important;
