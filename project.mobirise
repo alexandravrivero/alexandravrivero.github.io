@@ -571,7 +571,7 @@
             }
           },
           "text1": "<p><strong>Address</strong></p><p>11110 North Kendall Dr</p><p>Suite 201</p><p><span style=\"line-height: 1.5;\">Miami, FL 33176</span></p>",
-          "text2": "<strong>Contacts</strong><br>\nEmail: alexandra.rivero@hotmail.com<br><br>",
+          "text2": "<p><strong>Contacts</strong><br>\nEmail: alexandra.rivero@hotmail.com or&nbsp; &nbsp;arivero@miamiartsstduio.com<br></p>",
           "text3": ""
         }
       ]
@@ -1459,12 +1459,12 @@
                 "active": false
               }
             ],
-            "spacing": "0",
+            "spacing": "1",
             "showText": false,
             "filter": false,
             "bgColor": "fff",
             "filterBgColor": false,
-            "fullWidth": true,
+            "fullWidth": false,
             "showBullets": false
           },
           "_anchor": "gallery2-15",
@@ -1601,7 +1601,7 @@
             }
           },
           "text1": "<p><strong>Address</strong></p><p>11110 North Kendall Dr</p><p>Suite 201</p><p><span style=\"line-height: 1.5;\">Miami, FL 33176</span></p>",
-          "text2": "<strong>Contacts</strong><br>\nEmail: alexandra.rivero@hotmail.com<br><br>",
+          "text2": "<p><strong>Contacts</strong><br>\nEmail: alexandra.rivero@hotmail.com or&nbsp; &nbsp;arivero@miamiartsstduio.com<br></p>",
           "text3": ""
         }
       ]
@@ -1838,7 +1838,7 @@
             }
           },
           "text1": "<p><strong>Address</strong></p><p>11110 North Kendall Dr</p><p>Suite 201</p><p><span style=\"line-height: 1.5;\">Miami, FL 33176</span></p>",
-          "text2": "<strong>Contacts</strong><br>\nEmail: alexandra.rivero@hotmail.com<br><br>",
+          "text2": "<p><strong>Contacts</strong><br>\nEmail: alexandra.rivero@hotmail.com or&nbsp; &nbsp;arivero@miamiartsstduio.com<br></p>",
           "text3": "",
           "_styles": {
             "P": {
