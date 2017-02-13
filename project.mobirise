@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "photoshop.html",
     "name": "alexandrarivero",
     "theme": {
       "name": "mobirise3",
@@ -362,10 +362,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/illusion-project-2000x2978-800x1191.jpg",
-                "image": "@PROJECT_PATH@/assets/images/illusion-project-2000x2978.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/illusion-project-2000x2912-800x1164.jpg",
+                "image": "@PROJECT_PATH@/assets/images/illusion-project-2000x2912.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Animated",
@@ -402,8 +402,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/website-outside-2000x1545-800x618.jpg",
-                "image": "@PROJECT_PATH@/assets/images/website-outside-2000x1545.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/kayak-projects-2000x2912-800x1164.jpg",
+                "image": "@PROJECT_PATH@/assets/images/kayak-projects-2000x2912.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -425,7 +425,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/alexandra-rivero-poster-2000x2962-800x1184.jpg",
                 "image": "@PROJECT_PATH@/assets/images/alexandra-rivero-poster-2000x2962.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ],
             "spacing": "2",
