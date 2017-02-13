@@ -555,6 +555,7 @@ h6,
 }
 #contacts1-n P {
   font-size: 13px;
+  text-align: left;
 }
 #menu-a .hide-buttons .nav-btn {
   display: none !important;
@@ -928,6 +929,7 @@ h6,
 }
 #contacts1-n P {
   font-size: 13px;
+  text-align: left;
 }
 #menu-1b .hide-buttons .nav-btn {
   display: none !important;
@@ -1001,4 +1003,8 @@ h6,
 }
 #testimonials2-1d .mbr-section-subtitle {
   font-size: 18px;
+}
+#contacts1-1c P {
+  font-size: 13px;
+  text-align: left;
 }
