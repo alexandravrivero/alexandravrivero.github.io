@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "illustrator.html",
     "name": "alexandrarivero",
     "theme": {
       "name": "mobirise3",
@@ -201,10 +201,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/billboard-poster-2000x2962-800x1184.jpg",
-                "image": "@PROJECT_PATH@/assets/images/billboard-poster-2000x2962.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/billboard-project-2000x2912-800x1164.jpg",
+                "image": "@PROJECT_PATH@/assets/images/billboard-project-2000x2912.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Awesome",
@@ -294,7 +294,27 @@
                 "thumb": "@PROJECT_PATH@/assets/images/mdcps-logo-project-2000x2912-800x1164.jpg",
                 "image": "@PROJECT_PATH@/assets/images/mdcps-logo-project-2000x2912.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tattoo-project-2000x2912-800x1164.jpg",
+                "image": "@PROJECT_PATH@/assets/images/tattoo-project-2000x2912.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tv-project-2000x2912-800x1164.jpg",
+                "image": "@PROJECT_PATH@/assets/images/tv-project-2000x2912.jpg",
+                "caption": "Type caption here",
+                "active": false
               }
             ],
             "spacing": "1",
