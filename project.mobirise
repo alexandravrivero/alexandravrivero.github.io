@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.5",
-    "uniqCompNum": 52,
+    "uniqCompNum": 54,
     "versionPublish": "3.11.1",
     "favicon": "",
     "noImageResize": "",
@@ -187,13 +187,33 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1g",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Gallery of My Work",
+          "meta": "\"Digital design is like painting, except the paint never dries.\"<br>-Neville Brody"
+        },
+        {
           "_inherit": "gallery1",
           "_tags": [
             "Theme"
           ],
           "_name": "gallery2",
           "_params": {
-            "paddingTop": "3",
+            "paddingTop": "2",
             "paddingBottom": 4,
             "images": [
               {
@@ -317,7 +337,7 @@
                 "active": false
               }
             ],
-            "spacing": "1",
+            "spacing": "2",
             "showText": false,
             "filter": false,
             "bgColor": "fff",
@@ -338,13 +358,33 @@
       },
       "components": [
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1h",
+          "_params": {
+            "paddingTop": "7",
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Gallery of My Work",
+          "meta": "\"Design is a journey od discovery\"<br>-Unknown"
+        },
+        {
           "_inherit": "gallery1",
           "_tags": [
             "Theme"
           ],
           "_name": "gallery2",
           "_params": {
-            "paddingTop": "4",
+            "paddingTop": "3",
             "paddingBottom": "4",
             "images": [
               {
@@ -428,7 +468,7 @@
                 "active": false
               }
             ],
-            "spacing": "2",
+            "spacing": "3",
             "showText": false,
             "filter": false,
             "bgColor": "fff",
