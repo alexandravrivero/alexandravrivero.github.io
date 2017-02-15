@@ -1190,7 +1190,7 @@
             "paddingBottom": "4",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/bacccc-2000x1372.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/back-1-2000x1372.jpg",
             "bgColor": "#ffffff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1315,7 +1315,7 @@
               "color": "#7ac673"
             }
           },
-          "title2": "Interior Desgin",
+          "title2": "Interior Design",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "Expressing my creativity through home decor has always caught my attention. Working for a business that offers this type of work is one of my goals. .",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
