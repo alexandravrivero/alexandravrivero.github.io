@@ -925,6 +925,10 @@ h6,
   font-size: 13px;
   text-align: left;
 }
+#header3-1u .mbr-section-title,
+#header3-1u .mbr-section-subtitle {
+  text-align: center;
+}
 #menu-1b .hide-buttons .nav-btn {
   display: none !important;
 }

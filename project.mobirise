@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.5",
-    "uniqCompNum": 66,
+    "uniqCompNum": 67,
     "versionPublish": "3.11.1",
     "favicon": "",
     "noImageResize": "",
@@ -584,7 +584,7 @@
           "_anchor": "contacts1-n",
           "_params": {
             "paddingTop": "2",
-            "paddingBottom": "3",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -715,18 +715,18 @@
           "_name": "footer1",
           "_anchor": "footer1-b",
           "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "4",
+            "paddingTop": "1",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "bgColor": "#282727",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "<br>Address<br><br><br><br>Copyright (c) 2016 Mobirise."
+          "text": "<br><br>Copyright (c) 2017 Alexandra Rivero"
         }
       ]
     },
@@ -829,18 +829,18 @@
           "_name": "footer1",
           "_anchor": "footer1-d",
           "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "4",
+            "paddingTop": "1",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "bgColor": "#282727",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "<br>Address<br><br><br><br>Copyright (c) 2016 Mobirise."
+          "text": "<br><br>Copyright (c) 2017 Alexandra Rivero"
         }
       ]
     },
@@ -943,18 +943,18 @@
           "_name": "footer1",
           "_anchor": "footer1-f",
           "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "4",
+            "paddingTop": "1",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "bgColor": "#282727",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "<br>Address<br><br><br><br>Copyright (c) 2016 Mobirise."
+          "text": "<br><br>Copyright (c) 2017 Alexandra Rivero"
         }
       ]
     },
@@ -1057,18 +1057,18 @@
           "_name": "footer1",
           "_anchor": "footer1-h",
           "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "4",
+            "paddingTop": "1",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "bgColor": "#282727",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "<br>Address<br><br><br><br>Copyright (c) 2016 Mobirise."
+          "text": "<br><br>Copyright (c) 2017 Alexandra Rivero"
         }
       ]
     },
@@ -1283,7 +1283,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/pool-side-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/pool-side-2000x2000.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Beautiful",
@@ -1323,7 +1323,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/s-rock-2000x1999-800x799.jpg",
                 "image": "@PROJECT_PATH@/assets/images/s-rock-2000x1999.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               }
             ],
             "spacing": "1",
@@ -1412,7 +1412,7 @@
           "_anchor": "contacts1-1k",
           "_params": {
             "paddingTop": "2",
-            "paddingBottom": "3",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1441,6 +1441,46 @@
           "text1": "<p><strong>Address</strong></p><p>11110 North Kendall Dr<br>Suite 201</p><br><p>Miami, FL 33176<br></p>",
           "text2": "<p><strong>Contacts</strong></p><p>Email: alexandra.rivero@hotmail.com arivero@miamiartsstduio.com</p><br><p>Phone: 305-386-0103</p>",
           "text3": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-h",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#282727",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "<br><br>Copyright (c) 2017 Alexandra Rivero"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1u",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "",
+          "meta": ""
         }
       ]
     },
@@ -1655,7 +1695,7 @@
           "_anchor": "contacts1-1c",
           "_params": {
             "paddingTop": "2",
-            "paddingBottom": "3",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -2035,7 +2075,7 @@
           "_anchor": "contacts1-1k",
           "_params": {
             "paddingTop": "2",
-            "paddingBottom": "3",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
