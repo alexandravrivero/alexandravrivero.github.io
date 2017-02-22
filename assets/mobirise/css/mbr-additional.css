@@ -833,8 +833,10 @@ h6,
 #menu-g .close-icon::after {
   background-color: #ffffff;
 }
+
 #header1-1i .mbr-section-title {
   font-size: 60px;
+  font-family: 'Montserrat', sans-serif;
 }
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
@@ -919,12 +921,9 @@ h6,
 #form1-p .mbr-section-title {
   font-size: 46px;
 }
-#social-buttons2-3 .mbr-section-title,
-#social-buttons2-3 .btn-social {
-  color: #232323;
-}
-#social-buttons2-3 .mbr-section-title {
-  color: #ffffff;
+#contacts1-1k P {
+  font-size: 13px;
+  text-align: left;
 }
 #menu-1b .hide-buttons .nav-btn {
   display: none !important;
@@ -1081,6 +1080,13 @@ h6,
 #header3-1m H3 {
   font-family: 'Montserrat', sans-serif;
   font-size: 36px;
+}
+#social-buttons2-1r .mbr-section-title,
+#social-buttons2-1r .btn-social {
+  color: #232323;
+}
+#social-buttons2-1r .mbr-section-title {
+  color: #ffffff;
 }
 #contacts1-1k P {
   font-size: 13px;
