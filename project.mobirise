@@ -1090,7 +1090,12 @@
           "_name": "header1",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "60px",
+              "font-size": "72px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            ".mbr-section-lead": {
+              "font-size": "30px",
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
             }
@@ -1115,8 +1120,8 @@
             "showText": true,
             "showButtons": false
           },
-          "title": "WELCOME<br>",
-          "text": "\"A platform designed for growth...\"<br>",
+          "title": "WELCOME&nbsp;<br>",
+          "text": "to a platform designed for growth<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
