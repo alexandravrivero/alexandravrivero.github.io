@@ -926,9 +926,12 @@ h6,
 #form1-p .mbr-section-title {
   font-size: 46px;
 }
-#contacts1-1k P {
-  font-size: 13px;
-  text-align: left;
+#social-buttons2-1x .mbr-section-title,
+#social-buttons2-1x .btn-social {
+  color: #232323;
+}
+#social-buttons2-1x .mbr-section-title {
+  color: #ffffff;
 }
 #header3-1u .mbr-section-title,
 #header3-1u .mbr-section-subtitle {
