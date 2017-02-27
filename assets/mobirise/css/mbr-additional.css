@@ -1,6 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
 
 
 
@@ -835,13 +836,17 @@ h6,
 }
 
 
+
 #header1-1i .mbr-section-title {
   font-size: 72px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Roboto Condensed', sans-serif;
 }
 #header1-1i .mbr-section-lead {
   font-size: 30px;
   font-family: 'Montserrat', sans-serif;
+}
+#header1-1i .mbr-section-lead SPAN {
+  font-family: 'Roboto Condensed', sans-serif;
 }
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
