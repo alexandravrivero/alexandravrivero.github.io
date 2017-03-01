@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "photoshop.html",
+    "currentPage": "index.html",
     "name": "alexandrarivero",
     "theme": {
       "name": "mobirise3",
@@ -31,7 +31,7 @@
     "illustrator.html": {
       "settings": {
         "order": 3,
-        "title": "adobe illustrator"
+        "title": "Alexandra Rivero"
       },
       "components": [
         {
@@ -417,7 +417,7 @@
     },
     "photoshop.html": {
       "settings": {
-        "title": "adobe photoshop",
+        "title": "Alexandra Rivero",
         "order": 4
       },
       "components": [
@@ -772,7 +772,7 @@
     "premiere.html": {
       "settings": {
         "order": 5,
-        "title": "adobe premiere"
+        "title": "Alexandra Rivero"
       },
       "components": [
         {
@@ -886,7 +886,8 @@
     },
     "excel.html": {
       "settings": {
-        "order": 6
+        "order": 6,
+        "title": "Alexandra Rivero"
       },
       "components": [
         {
@@ -1001,7 +1002,7 @@
     "123D.html": {
       "settings": {
         "order": 7,
-        "title": "123d"
+        "title": "Alexandra Rivero"
       },
       "components": [
         {
@@ -1047,7 +1048,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#7e9b9f!important"
+              "color": "#90a878!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -1115,7 +1116,8 @@
     },
     "office.html": {
       "settings": {
-        "order": 8
+        "order": 8,
+        "title": "Alexandra Rivero"
       },
       "components": [
         {
@@ -1161,7 +1163,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#7e9b9f!important"
+              "color": "#90a878!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -1230,7 +1232,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home Page",
+        "title": "Alexandra Rivero",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -1584,7 +1586,7 @@
     },
     "letters.html": {
       "settings": {
-        "title": "recommendations",
+        "title": "Alexandra Rivero",
         "meta_descr": "Website Generator Description",
         "order": 9
       },
@@ -1632,7 +1634,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#7e9b9f!important"
+              "color": "#90a878!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -1848,7 +1850,7 @@
     },
     "intropage.html": {
       "settings": {
-        "title": "Alexandra Introduction",
+        "title": "Alexandra Rivero",
         "meta_descr": "Site Builder Description",
         "order": 2
       },
