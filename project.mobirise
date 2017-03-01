@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.5",
-    "uniqCompNum": 85,
+    "uniqCompNum": 87,
     "versionPublish": "3.11.1",
     "favicon": "",
     "noImageResize": "",
@@ -1903,7 +1903,7 @@
               "text-align": "center"
             },
             ".lead P": {
-              "text-align": "right",
+              "text-align": "left",
               "font-size": "16px"
             }
           },
@@ -1932,8 +1932,28 @@
             "showButton": false
           },
           "title": "Alexandra Rivero",
-          "text": "<p>What used to be amusement, soon turned into a future career. Being raised in a household full of nurses, my passion for the medical field, as well as animals, sparked early in life. In middle school, I experimented with a mobile app; Superimpose, or Photoshop. After several times of practicing with editing, I realized how good I had become. My imperfections were fixed after nearly two years, I enrolled into a high school magnet based on these programs. I was skeptical of the school, but quickly fell in love. Little did I realize this program would benefit my future major.</p><p>&nbsp; In the first eight months of being in this school, I was already certified in Adobe Illustrator and IC3. My class was taught how to illustrate, 3D design, and edit images. I became very skilled at creating my own designs. I also took two Anatomy classes and rapidly started rediscovering how interested I was with physiology. After learning this, it kicked in how much I wanted to become a veterinarian. This high school program was opening the doors to different fields of study.</p><p>&nbsp; To fulfill my intentions, right after high school, I’m on my way to college to earn my bachelor’s degree. To follow will be my Masters in Medicine or Animal Science.</p>",
+          "text": "<p>What used to be amusement, soon turned into a future career. Being raised in a household full of nurses, my passion for the medical field, as well as animals, sparked early in life. In middle school, I experimented with a mobile app; Superimpose, or Photoshop. After several times of practicing with editing, I realized how good I had become. My imperfections were fixed after nearly two years, I enrolled into a high school magnet based on these programs. I was skeptical of the school, but quickly fell in love. Little did I realize this program would benefit my future major.</p><p>&nbsp; In the first eight months of being in this school, I was already certified in Adobe Illustrator and IC3. My class was taught how to illustrate, 3D design, and edit images. I became very skilled at creating my own designs. I also took two Anatomy classes and rapidly started rediscovering how interested I was with physiology. After learning this, it kicked in how much I wanted to become a veterinarian. This high school program was opening the doors to different fields of study.</p><p>&nbsp;To fulfill my intentions, right after high school, I’m on my way to college to earn my bachelor’s degree. To follow will be my Masters in Medicine or Animal Science.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2e",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#000000",
+            "showMeta": true
+          },
+          "title": "",
+          "meta": ""
         },
         {
           "_styles": {
@@ -2005,7 +2025,7 @@
               "link": "https://mobirise.com",
               "size": "60",
               "newWindow": false,
-              "color": "#7ac673"
+              "color": "#41a85f"
             }
           },
           "title1": "Adobe Certified",
@@ -2022,7 +2042,7 @@
               "link": "https://mobirise.com",
               "size": "60",
               "newWindow": false,
-              "color": "#7ac673"
+              "color": "#41a85f"
             }
           },
           "title2": "Interior Design",
@@ -2039,7 +2059,7 @@
               "link": "https://mobirise.com",
               "size": "60",
               "newWindow": false,
-              "color": "#7ac673"
+              "color": "#41a85f"
             }
           },
           "title3": "Work Experience&nbsp;",
@@ -2056,7 +2076,7 @@
               "link": "https://mobirise.com",
               "size": "60",
               "newWindow": false,
-              "color": "#7ac673"
+              "color": "#41a85f"
             }
           },
           "title4": "University of Miami",
