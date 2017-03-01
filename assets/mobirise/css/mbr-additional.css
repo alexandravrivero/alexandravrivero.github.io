@@ -501,6 +501,16 @@ h6,
 #header3-1h .mbr-section-subtitle {
   text-align: center;
 }
+#header3-2g .mbr-section-title,
+#header3-2g .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-2g H3 {
+  font-size: 48px;
+}
+#header3-2g SMALL {
+  font-size: 20px;
+}
 #menu-8 .hide-buttons .nav-btn {
   display: none !important;
 }
