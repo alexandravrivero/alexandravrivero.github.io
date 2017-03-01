@@ -1,8 +1,9 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
 
 
 
@@ -468,7 +469,7 @@ h6,
 }
 #menu-6 .link[aria-expanded="true"],
 #menu-6 .dropdown-item[aria-expanded="true"] {
-  color: #7e9b9f!important;
+  color: #90a878!important;
 }
 #menu-6.mbr-navbar--stuck .mbr-navbar__section {
   background: #2c2c2c;
@@ -555,7 +556,7 @@ h6,
 }
 #menu-8 .link[aria-expanded="true"],
 #menu-8 .dropdown-item[aria-expanded="true"] {
-  color: #7e9b9f!important;
+  color: #90a878!important;
 }
 #menu-8.mbr-navbar--stuck .mbr-navbar__section {
   background: #2c2c2c;
@@ -626,7 +627,7 @@ h6,
 }
 #menu-a .link[aria-expanded="true"],
 #menu-a .dropdown-item[aria-expanded="true"] {
-  color: #7e9b9f!important;
+  color: #90a878!important;
 }
 #menu-a.mbr-navbar--stuck .mbr-navbar__section {
   background: #2c2c2c;
@@ -844,7 +845,7 @@ h6,
 
 #header1-1i .mbr-section-title {
   font-size: 84px;
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 #header1-1i .mbr-section-lead {
   font-size: 30px;
@@ -852,6 +853,9 @@ h6,
 }
 #header1-1i .mbr-section-lead SPAN {
   font-family: 'Roboto Condensed', sans-serif;
+}
+#header1-1i .btn {
+  font-size: 15px;
 }
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
