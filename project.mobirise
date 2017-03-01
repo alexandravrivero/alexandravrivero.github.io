@@ -1371,7 +1371,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/miami-ocean-line-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/miami%20ocean%20line-2000x2000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/miami-ocean-line-2000x2000.jpg",
                 "caption": "Type caption here",
                 "active": true
               },
@@ -1417,7 +1417,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "file:///C:/Users/0619444/AppData/Local/Mobirise.com/Mobirise/projectData/paiting-2000x2000_3.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/paiting-2000x2000-3.jpg",
             "bgColor": "#41a85f",
             "bgColorRadio": false,
             "overlay": true,
