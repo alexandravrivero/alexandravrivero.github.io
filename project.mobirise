@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.5",
-    "uniqCompNum": 111,
+    "uniqCompNum": 113,
     "versionPublish": "3.11.1",
     "favicon": "",
     "noImageResize": "",
@@ -1374,7 +1374,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/title-261x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-1.gif",
               "height": 128,
               "alt": "Home",
               "link": "index.html#header1-1i",
@@ -1519,10 +1519,10 @@
               "text-align": "left"
             }
           },
-          "_anchor": "contacts1-n",
+          "_anchor": "contacts1-34",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1534,7 +1534,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/title-128x62.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-little.gif",
               "width": 128,
               "active": true,
               "link": "",
@@ -1548,8 +1548,8 @@
               "size": 0
             }
           },
-          "text1": "<p><strong>Address</strong></p><p>11110 North Kendall Dr</p><p>Suite 201</p><p><span style=\"line-height: 1.5;\">Miami, FL 33176</span></p>",
-          "text2": "<p><strong>Contacts</strong><br>\nEmail: alexandra.rivero@hotmail.com or&nbsp; &nbsp;arivero@miamiartsstduio.com<br></p>",
+          "text1": "<p><strong>Address</strong></p><p>11110 North Kendall Dr<br>Suite 201</p><br><p>Miami, FL 33176<br></p>",
+          "text2": "<p><strong>Contacts</strong></p><p>Email: alexandra.rivero@hotmail.com arivero@miamiartsstduio.com</p><br><p>Phone: 305-386-0103</p>",
           "text3": ""
         },
         {
