@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.5",
-    "uniqCompNum": 126,
+    "uniqCompNum": 132,
     "versionPublish": "3.11.1",
     "favicon": "",
     "noImageResize": "",
@@ -61,10 +61,10 @@
               "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#010201!important"
+              "background": "#121212!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#040e07"
+              "background": "#1a1919"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -93,7 +93,7 @@
           "_name": "menu",
           "_anchor": "menu-6",
           "_params": {
-            "bgColor": "#040e07",
+            "bgColor": "#1a1919",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -108,7 +108,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/title-261x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-1.gif",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -412,6 +412,32 @@
           "text1": "<p><strong>Address</strong></p><p>11110 North Kendall Dr<br>Suite 200</p><br><p>Miami, FL 33176<br></p>",
           "text2": "<p><strong>Contacts</strong></p><p>Email: alexandra.rivero@hotmail.com arivero@miamiartsstduio.com</p><br><p>Phone: 305-386-0103</p>",
           "text3": ""
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "36px"
+            },
+            "SMALL": {
+              "font-size": "15px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-3n",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "",
+          "meta": "some samples of my photography skills..."
         }
       ]
     },
@@ -726,7 +752,7 @@
           "_name": "menu",
           "_anchor": "menu-8",
           "_params": {
-            "bgColor": "#000000",
+            "bgColor": "#1a1919",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -741,7 +767,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/title-261x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-1.gif",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -844,7 +870,7 @@
           "_name": "menu",
           "_anchor": "menu-a",
           "_params": {
-            "bgColor": "#040e07",
+            "bgColor": "#1a1919",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -859,7 +885,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/title-261x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-1.gif",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -997,7 +1023,7 @@
           "_name": "menu",
           "_anchor": "menu-c",
           "_params": {
-            "bgColor": "#040e07",
+            "bgColor": "#1a1919",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -1012,7 +1038,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/title-261x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-1.gif",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -1150,7 +1176,7 @@
           "_name": "menu",
           "_anchor": "menu-e",
           "_params": {
-            "bgColor": "#040e07",
+            "bgColor": "#1a1919",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -1165,7 +1191,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/title-261x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-1.gif",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -1303,7 +1329,7 @@
           "_name": "menu",
           "_anchor": "menu-g",
           "_params": {
-            "bgColor": "#040e07",
+            "bgColor": "#1a1919",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -1318,7 +1344,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/title-261x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-1.gif",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -1409,12 +1435,12 @@
           "_name": "header1",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "84px",
+              "font-size": "72px",
               "font-family": "'Roboto', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             },
             ".mbr-section-lead": {
-              "font-size": "25px",
+              "font-size": "23px",
               "font-family": "'Slabo 27px', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
             },
@@ -1441,7 +1467,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.6",
+            "overlayOpacity": "0.5",
             "overlayColor": "#000",
             "contentAlign": "center",
             "showTitle": true,
@@ -1479,10 +1505,10 @@
               "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#000000!important"
+              "background": "#121212!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#000000"
+              "background": "#1a1919"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -1511,7 +1537,7 @@
           "_name": "menu",
           "_anchor": "menu-0",
           "_params": {
-            "bgColor": "#000000",
+            "bgColor": "#1a1919",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -1812,7 +1838,7 @@
           "_name": "menu",
           "_anchor": "menu-1b",
           "_params": {
-            "bgColor": "#040e07",
+            "bgColor": "#1a1919",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -1827,7 +1853,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/title-261x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-1.gif",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -1890,7 +1916,7 @@
               "authorBio": "Teacher at Miami Arts Studio."
             },
             {
-              "text": "<p>“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</p>",
+              "text": "<p>“Alex has a great imagination and is extremely creative. She excels at all presentations. Alex has always show great interest in media technology and graphic design. She actively participates in technology based classroom activities.”</p>",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face2.jpg",
@@ -1904,7 +1930,7 @@
               "authorBio": "Teacher at Good Shepherd Catholic School."
             },
             {
-              "text": "<p>“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>",
+              "text": "<p>&nbsp;\"Alexandra is very creative and demonstrates great initiative when learning new concepts and skills. She is opened to suggestions and ideas, in addition to having great talent. Alexandra is very dedicated and shows much interest in class. She will be an asset to your line institution.\"</p>",
               "media": {
                 "image": {
                   "src": "file:///C:/Users/0619444/AppData/Local/Mobirise.com/Mobirise/projectData/mbr-160x106.jpg",
@@ -2044,10 +2070,10 @@
               "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#010201!important"
+              "background": "#121212!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#040e07"
+              "background": "#1a1919"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -2076,7 +2102,7 @@
           "_name": "menu",
           "_anchor": "menu-1j",
           "_params": {
-            "bgColor": "#040e07",
+            "bgColor": "#1a1919",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -2091,7 +2117,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/title-261x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-1.gif",
               "height": 128,
               "alt": "Home",
               "link": "index.html",
@@ -2375,6 +2401,32 @@
           "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/profile.php?id=100000091802164\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/awhhood/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-pinterest\"></i></a>     "
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "36px"
+            },
+            "SMALL": {
+              "font-size": "15px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-3l",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "",
+          "meta": "some samples of my photography skills..."
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -2417,6 +2469,32 @@
           "text1": "<p><strong>Address</strong></p><p>11110 North Kendall Dr<br>Suite 200</p><br><p>Miami, FL 33176<br></p>",
           "text2": "<p><strong>Contacts</strong></p><p>Email: alexandra.rivero@hotmail.com arivero@miamiartsstduio.com</p><br><p>Phone: 305-386-0103</p>",
           "text3": ""
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "36px"
+            },
+            "SMALL": {
+              "font-size": "15px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-3m",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "",
+          "meta": "some samples of my photography skills..."
         },
         {
           "_tags": [
@@ -2506,7 +2584,7 @@
           "_name": "menu",
           "_anchor": "menu-2i",
           "_params": {
-            "bgColor": "#000000",
+            "bgColor": "#1a1919",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -2521,7 +2599,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/title-261x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-1.gif",
               "height": 128,
               "alt": "Home",
               "link": "index.html#header1-1i",
@@ -2774,10 +2852,10 @@
               "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#000000!important"
+              "background": "#121212!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#000000"
+              "background": "#1a1919"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -2806,7 +2884,7 @@
           "_name": "menu",
           "_anchor": "menu-2u",
           "_params": {
-            "bgColor": "#000000",
+            "bgColor": "#1a1919",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -2821,7 +2899,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/title-261x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-1.gif",
               "height": 128,
               "alt": "Home",
               "link": "index.html#header1-1i",
@@ -2899,32 +2977,26 @@
         },
         {
           "_styles": {
-            ".mbr-section-title, .btn-social": {
-              "color": "#232323"
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
             },
-            ".mbr-section-title": {
-              "color": "#000000"
+            "H3": {
+              "color": "#90a878"
             }
           },
           "_tags": [
             "Theme"
           ],
-          "_name": "social-buttons2",
-          "_anchor": "social-buttons2-2x",
+          "_name": "header3",
+          "_anchor": "header3-3i",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": true,
-            "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/paiting-2000x2000-5.jpg",
-            "bgColor": "#41a85f",
-            "bgColorRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.4",
-            "overlayColor": "#efefef"
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#28324e",
+            "showMeta": false
           },
-          "text": "FOLLOW ME",
-          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/profile.php?id=100000091802164\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCaAirtcLyXgnRL9dfXNHZ4g/videos\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/alexandraa.rivero/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/awhhood/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-pinterest\"></i></a>     "
+          "title": "",
+          "meta": "By John Smith posted July 20, 2016"
         },
         {
           "_styles": {
@@ -2955,7 +3027,7 @@
             "showSubTitle": true
           },
           "title": "SUBSCRIBE FORM",
-          "subtitle": "Subscribe to our Newsletter",
+          "subtitle": "Subscribe to &nbsp;my Newsletter",
           "form": {
             "action": "alexandra.rivero@hotmail.com",
             "alerts": {
@@ -2969,6 +3041,61 @@
             }
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "36px"
+            },
+            "SMALL": {
+              "font-size": "15px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-3k",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "",
+          "meta": "some samples of my photography skills..."
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "color": "#000000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-2x",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/paiting-2000x2000-5.jpg",
+            "bgColor": "#41a85f",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.4",
+            "overlayColor": "#efefef"
+          },
+          "text": "FOLLOW ME",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/profile.php?id=100000091802164\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCaAirtcLyXgnRL9dfXNHZ4g/videos\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/alexandraa.rivero/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/awhhood/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-pinterest\"></i></a>     "
         },
         {
           "_styles": {
@@ -3147,7 +3274,7 @@
           "_name": "menu",
           "_anchor": "menu-3a",
           "_params": {
-            "bgColor": "#000000",
+            "bgColor": "#1a1919",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
