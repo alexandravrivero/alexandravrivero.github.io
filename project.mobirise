@@ -634,6 +634,16 @@
                 "thumb": "@PROJECT_PATH@/assets/images/step-4-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/step-4-2000x1333.jpg",
                 "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/step-5-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/step-5-2000x1333.jpg",
+                "caption": "Type caption here",
                 "active": true
               }
             ],
@@ -720,10 +730,10 @@
               "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#000000!important"
+              "background": "#121212!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#000000"
+              "background": "#1a1919"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
