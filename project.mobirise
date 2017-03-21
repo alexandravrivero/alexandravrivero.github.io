@@ -3483,7 +3483,7 @@
           "_name": "gallery2",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "3",
+            "paddingBottom": "1",
             "images": [
               {
                 "tags": "Responsive",
@@ -3526,7 +3526,7 @@
                 "active": false
               }
             ],
-            "spacing": "1",
+            "spacing": "2",
             "showText": false,
             "filter": false,
             "bgColor": "fff",
