@@ -3567,10 +3567,10 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "src": "https://youtu.be/DlpKAgsdXNc",
               "aspectratio": "16:9",
               "autoplay": false,
-              "loop": false
+              "loop": "on"
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-msg-box4",
