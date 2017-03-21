@@ -1546,6 +1546,12 @@ h6,
 #header3-1e SMALL {
   font-size: 17px;
 }
+#msg-box4-3v H3 {
+  font-size: 46px;
+}
+#msg-box4-3v .btn {
+  font-size: 13px;
+}
 #social-buttons2-28 .mbr-section-title,
 #social-buttons2-28 .btn-social {
   color: #232323;
