@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "landing.html",
+    "currentPage": "index.html",
     "name": "alexandrarivero",
     "theme": {
       "name": "mobirise3",
@@ -3382,7 +3382,7 @@
         }
       ]
     },
-    "landing.html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "Alexandra Rivero",
