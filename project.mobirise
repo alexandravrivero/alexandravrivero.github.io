@@ -25,7 +25,8 @@
     "versionPublish": "3.11.1",
     "favicon": "",
     "noImageResize": "",
-    "path": "@PROJECT_PATH@"
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "illustrator.html": {
