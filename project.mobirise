@@ -93,7 +93,7 @@
           "_name": "menu",
           "_anchor": "menu-6",
           "_params": {
-            "bgColor": "#1a1919",
+            "bgColor": "#161818",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -802,7 +802,7 @@
           "_name": "menu",
           "_anchor": "menu-8",
           "_params": {
-            "bgColor": "#1a1919",
+            "bgColor": "#161818",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -920,7 +920,7 @@
           "_name": "menu",
           "_anchor": "menu-a",
           "_params": {
-            "bgColor": "#1a1919",
+            "bgColor": "#161818",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -1073,7 +1073,7 @@
           "_name": "menu",
           "_anchor": "menu-c",
           "_params": {
-            "bgColor": "#1a1919",
+            "bgColor": "#161818",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -1226,7 +1226,7 @@
           "_name": "menu",
           "_anchor": "menu-e",
           "_params": {
-            "bgColor": "#1a1919",
+            "bgColor": "#161818",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -1379,7 +1379,7 @@
           "_name": "menu",
           "_anchor": "menu-g",
           "_params": {
-            "bgColor": "#1a1919",
+            "bgColor": "#161818",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -1533,7 +1533,7 @@
           "_name": "menu",
           "_anchor": "menu-1b",
           "_params": {
-            "bgColor": "#1a1919",
+            "bgColor": "#161818",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -1765,7 +1765,7 @@
           "_name": "menu",
           "_anchor": "menu-1j",
           "_params": {
-            "bgColor": "#1a1919",
+            "bgColor": "#161818",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -2247,7 +2247,7 @@
           "_name": "menu",
           "_anchor": "menu-2i",
           "_params": {
-            "bgColor": "#1a1919",
+            "bgColor": "#161818",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -2547,7 +2547,7 @@
           "_name": "menu",
           "_anchor": "menu-2u",
           "_params": {
-            "bgColor": "#1a1919",
+            "bgColor": "#161818",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -2963,7 +2963,7 @@
           "_name": "menu",
           "_anchor": "menu-3a",
           "_params": {
-            "bgColor": "#1a1919",
+            "bgColor": "#161818",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -3163,7 +3163,7 @@
           "_name": "menu",
           "_anchor": "menu-3e",
           "_params": {
-            "bgColor": "#000000",
+            "bgColor": "#161818",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -3336,10 +3336,10 @@
               "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#121212!important"
+              "background": "#0f1010!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#1a1919"
+              "background": "#161818"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -3368,7 +3368,7 @@
           "_name": "menu",
           "_anchor": "menu-0",
           "_params": {
-            "bgColor": "#1a1919",
+            "bgColor": "#161818",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -3404,6 +3404,21 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead": {
+              "color": "#ffffff",
+              "font-size": "23px",
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
+            },
+            ".mbr-section-title": {
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            },
+            ".btn": {
+              "font-size": "14px"
+            }
+          },
           "_anchor": "header1-3t",
           "_params": {
             "parallax": true,
@@ -3426,22 +3441,7 @@
           },
           "title": "Alexandra Rivero",
           "text": "“Wherever there is light, one can photograph.” -Alfred Stieglitz<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Welcome!</a> ",
-          "_styles": {
-            ".mbr-section-lead": {
-              "color": "#ffffff",
-              "font-size": "23px",
-              "font-family": "'Ubuntu', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
-            },
-            ".mbr-section-title": {
-              "font-family": "'PT Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
-            },
-            ".btn": {
-              "font-size": "14px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Welcome!</a> "
         },
         {
           "_styles": {
@@ -3538,6 +3538,14 @@
             "Theme"
           ],
           "_name": "msg-box4",
+          "_styles": {
+            "H3": {
+              "font-size": "46px"
+            },
+            ".btn": {
+              "font-size": "13px"
+            }
+          },
           "_anchor": "msg-box4-3v",
           "_params": {
             "imageSize": "58",
@@ -3580,15 +3588,7 @@
           },
           "title": "Introduction Video",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://www.youtube.com/channel/UCaAirtcLyXgnRL9dfXNHZ4g/videos\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Subscribe</a>",
-          "_styles": {
-            "H3": {
-              "font-size": "46px"
-            },
-            ".btn": {
-              "font-size": "13px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://www.youtube.com/channel/UCaAirtcLyXgnRL9dfXNHZ4g/videos\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Subscribe</a>"
         },
         {
           "_styles": {

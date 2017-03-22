@@ -1,7 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700);
 
 
@@ -1492,13 +1492,13 @@ h6,
 #menu-0 .nav-dropdown-sm .link:hover,
 #menu-0 .nav-dropdown-sm .dropdown-item:focus,
 #menu-0 .nav-dropdown-sm .dropdown-item:hover {
-  background: #121212!important;
+  background: #0f1010!important;
 }
 #menu-0 .navbar,
 #menu-0 .nav-dropdown-sm,
 #menu-0 .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-0 .nav-dropdown-sm .dropdown-menu {
-  background: #1a1919;
+  background: #161818;
 }
 #menu-0 .bg-color.transparent .link {
   color: #ffffff;
@@ -1528,7 +1528,7 @@ h6,
 #header1-3t .mbr-section-lead {
   color: #ffffff;
   font-size: 23px;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Roboto Condensed', sans-serif;
 }
 #header1-3t .mbr-section-title {
   font-family: 'PT Sans', sans-serif;
