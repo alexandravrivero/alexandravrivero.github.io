@@ -1547,6 +1547,14 @@ h6,
 #header1-3t .btn {
   font-size: 14px;
 }
+#header3-42 .mbr-section-title,
+#header3-42 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-42 H3 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 36px;
+}
 #header3-1e .mbr-section-title,
 #header3-1e .mbr-section-subtitle {
   text-align: center;
@@ -1556,14 +1564,6 @@ h6,
 }
 #header3-1e SMALL {
   font-size: 17px;
-}
-#header3-42 .mbr-section-title,
-#header3-42 .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-42 H3 {
-  font-family: 'Montserrat', sans-serif;
-  font-size: 36px;
 }
 #msg-box4-3v H3 {
   font-size: 46px;
