@@ -3689,8 +3689,8 @@
               "active": true,
               "src": "https://youtu.be/DlpKAgsdXNc",
               "aspectratio": "16:9",
-              "autoplay": "on",
-              "loop": false
+              "autoplay": false,
+              "loop": "on"
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-msg-box4",
