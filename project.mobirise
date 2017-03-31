@@ -2153,7 +2153,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-small-128x1280.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-small-128x1281.png",
               "width": 128,
               "active": true,
               "link": "index.html",
@@ -3512,7 +3512,7 @@
           },
           "title": "Alexandra Rivero",
           "text": "“Wherever there is light, one can photograph.” -Alfred Stieglitz<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"intropage.html\" data-toolbar=\"-mbrBtnMove\">Welcome!</a> "
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"https://youtu.be/DlpKAgsdXNc\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Introductory Video</a> "
         },
         {
           "_styles": {
