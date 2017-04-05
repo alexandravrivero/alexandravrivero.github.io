@@ -2210,7 +2210,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-small-128x1283.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-small-128x1284.png",
               "width": 128,
               "active": true,
               "link": "index.html",
