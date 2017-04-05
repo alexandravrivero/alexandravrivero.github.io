@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.5",
-    "uniqCompNum": 167,
+    "uniqCompNum": 168,
     "versionPublish": "3.11.1",
     "favicon": "",
     "noImageResize": "",
@@ -1025,6 +1025,63 @@
           "text": "<br><br>Copyright (c) 2017 Alexandra Rivero"
         },
         {
+          "_inherit": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#28262b"
+            },
+            ".mbr-section-text": {
+              "color": "#565656"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header6",
+          "_anchor": "header6-4n",
+          "_params": {
+            "imageSize": "58",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x3000.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.9",
+            "overlayColor": "#cccccc",
+            "inverse": true,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "showArrow": false
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/TRVA10Sp-Dc",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Imagine Dragons Competiton piece",
+          "text": "Full screen intro with youtube video.<br>Mobirise helps you cut down development time by providing you with a flexible website editor.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://youtu.be/TRVA10Sp-Dc\" data-toolbar=\"-mbrBtnMove\">Watch Full Video</a>"
+        },
+        {
           "_inherit": "header1",
           "_styles": {
             ".mbr-section-title": {
@@ -1058,7 +1115,7 @@
             "showText": false,
             "showButtons": false
           },
-          "title": "coming soon...",
+          "title": "more coming soon...",
           "text": "Full screen intro with color background.<br>Buttons, text and title are aligned to the left.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
         }
@@ -2153,7 +2210,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-small-128x1280.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-small-128x1282.png",
               "width": 128,
               "active": true,
               "link": "index.html",
