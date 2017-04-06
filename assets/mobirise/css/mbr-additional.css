@@ -667,17 +667,41 @@ h6,
 #menu-a .close-icon::after {
   background-color: #ffffff;
 }
-#header6-4n .mbr-section-title {
-  color: #28262b;
+#msg-box2-4p .mbr-section-title {
+  color: #fff;
 }
-#header6-4n .mbr-section-text {
-  color: #565656;
+#msg-box2-4p .mbr-section-subtitle {
+  color: #a0a0a0;
 }
-#header5-36 .mbr-section-title {
-  color: #000;
+#form2-4s .mbr-section-title {
+  color: #fff;
 }
-#header5-36 .mbr-section-lead {
-  color: #9c9a9a;
+#form2-4s .mbr-section-subtitle {
+  color: #a0a0a0;
+}
+#header3-4t .mbr-section-title,
+#header3-4t .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-4t H3 {
+  font-size: 36px;
+}
+#header3-4t SMALL {
+  font-size: 15px;
+}
+#contacts1-34 P {
+  font-size: 13px;
+  text-align: left;
+}
+#header3-4r .mbr-section-title,
+#header3-4r .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-4r H3 {
+  font-size: 36px;
+}
+#header3-4r SMALL {
+  font-size: 15px;
 }
 #menu-c .hide-buttons .nav-btn {
   display: none !important;

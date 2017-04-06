@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "premiere.html",
+    "currentPage": "index.html",
     "name": "alexandrarivero",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.5",
-    "uniqCompNum": 168,
+    "uniqCompNum": 174,
     "versionPublish": "3.11.1",
     "favicon": "",
     "noImageResize": "",
@@ -1025,25 +1025,25 @@
           "text": "<br><br>Copyright (c) 2017 Alexandra Rivero"
         },
         {
-          "_inherit": "header2",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#28262b"
+              "color": "#fff"
             },
-            ".mbr-section-text": {
-              "color": "#565656"
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
             }
           },
           "_tags": [
             "Theme"
           ],
-          "_name": "header6",
-          "_anchor": "header6-4n",
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-4p",
           "_params": {
-            "imageSize": "58",
-            "parallax": true,
+            "paddingTop": "4",
+            "paddingBottom": "4",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x3000.jpg",
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-3-2000x1125.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1051,73 +1051,156 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.9",
-            "overlayColor": "#cccccc",
+            "overlayOpacity": "0.7",
+            "overlayColor": "#222",
             "inverse": true,
-            "showTitle": true,
-            "showText": false,
             "showButtons": true,
-            "showArrow": false
+            "showTitle": true,
+            "showText": true
           },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
-            },
-            "video": {
-              "active": true,
-              "src": "https://youtu.be/TRVA10Sp-Dc",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 250
-            }
-          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://youtu.be/TRVA10Sp-Dc\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Watch Full Video</a>",
           "title": "Imagine Dragons Competiton piece",
-          "text": "Full screen intro with youtube video.<br>Mobirise helps you cut down development time by providing you with a flexible website editor.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://youtu.be/TRVA10Sp-Dc\" data-toolbar=\"-mbrBtnMove\">Watch Full Video</a>"
+          "text": "Believer Music Video."
         },
         {
-          "_inherit": "header1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#000"
+              "color": "#fff"
             },
-            ".mbr-section-lead": {
-              "color": "#9c9a9a"
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
             }
           },
           "_tags": [
             "Theme"
           ],
-          "_name": "header5",
-          "_anchor": "header5-36",
+          "_name": "form2",
+          "_anchor": "form2-4s",
           "_params": {
-            "parallax": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
-            "showArrow": false,
+            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#c1c1c1",
+            "bgColor": "#2e2e2e",
             "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
             "overlay": false,
             "overlayOpacity": 0.5,
-            "overlayColor": "#000",
-            "contentAlign": "left",
+            "overlayColor": "#222",
             "showTitle": true,
-            "showText": false,
-            "showButtons": false
+            "showSubTitle": true
           },
-          "title": "more coming soon...",
-          "text": "Full screen intro with color background.<br>Buttons, text and title are aligned to the left.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
+          "title": "SUBSCRIBE FORM",
+          "subtitle": "Subscribe to my Newsletter",
+          "form": {
+            "action": "alexandra.rivero@hotmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Enter Your Email Address..."
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "36px"
+            },
+            "SMALL": {
+              "font-size": "15px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-4t",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "",
+          "meta": "some samples of my photography skills..."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "font-size": "13px",
+              "text-align": "left"
+            }
+          },
+          "_anchor": "contacts1-34",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo-small-128x128.png",
+              "width": 128,
+              "active": true,
+              "link": "landing.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<p><strong>Address</strong></p><p>11110 North Kendall Dr<br>Suite 200</p><br><p>Miami, FL 33176<br></p>",
+          "text2": "<p><strong>Contacts</strong></p><p>Email: alexandra.rivero@hotmail.com arivero@miamiartsstduio.com</p><br><p>Phone: 305-386-0103</p>",
+          "text3": ""
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "36px"
+            },
+            "SMALL": {
+              "font-size": "15px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-4r",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "",
+          "meta": "some samples of my photography skills..."
         }
       ]
     },
@@ -2210,7 +2293,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-small-128x1280.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-small-128x1282.png",
               "width": 128,
               "active": true,
               "link": "index.html",
@@ -2814,7 +2897,7 @@
             "showSubTitle": true
           },
           "title": "SUBSCRIBE FORM",
-          "subtitle": "Subscribe to &nbsp;my Newsletter",
+          "subtitle": "Subscribe to my Newsletter",
           "form": {
             "action": "alexandra.rivero@hotmail.com",
             "alerts": {
