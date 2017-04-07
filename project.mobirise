@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.5",
-    "uniqCompNum": 174,
+    "uniqCompNum": 175,
     "versionPublish": "3.11.1",
     "favicon": "",
     "noImageResize": "",
@@ -1058,53 +1058,9 @@
             "showTitle": true,
             "showText": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://youtu.be/TRVA10Sp-Dc\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Watch Full Video</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://youtu.be/bWrlwe4VFG8\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Full Video</a>",
           "title": "Imagine Dragons Competiton piece",
           "text": "Believer Music Video."
-        },
-        {
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#fff"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#a0a0a0"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "form2",
-          "_anchor": "form2-4s",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showSubTitle": true
-          },
-          "title": "SUBSCRIBE FORM",
-          "subtitle": "Subscribe to my Newsletter",
-          "form": {
-            "action": "alexandra.rivero@hotmail.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "email": {
-                "title": "Email",
-                "customTitle": "Enter Your Email Address..."
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</a>"
         },
         {
           "_styles": {
@@ -2293,7 +2249,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-small-128x1282.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-small-128x1280.png",
               "width": 128,
               "active": true,
               "link": "index.html",
