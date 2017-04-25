@@ -95,7 +95,7 @@
           "_anchor": "menu-6",
           "_params": {
             "bgColor": "#000000",
-            "fontSize": 0.75,
+            "fontSize": "0.75",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -277,7 +277,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/tv-project-2000x2912-800x1164.jpg",
                 "image": "@PROJECT_PATH@/assets/images/tv-project-2000x2912.jpg",
                 "caption": "Television&nbsp;",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Others",
@@ -288,6 +288,16 @@
                 "image": "@PROJECT_PATH@/assets/images/cd-project-2000x2912.jpg",
                 "caption": "Animation CD Design",
                 "active": false
+              },
+              {
+                "tags": "Posters",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/alexandra-rivero-gun-violence-2000x2815-800x1126.jpg",
+                "image": "@PROJECT_PATH@/assets/images/alexandra-rivero-gun-violence-2000x2815.jpg",
+                "caption": "Gun Violence Poster",
+                "active": true
               }
             ],
             "spacing": "2",
@@ -1094,6 +1104,14 @@
             "Theme"
           ],
           "_name": "msg-box4",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "msg-box4-4w",
           "_params": {
             "imageSize": 50,
@@ -1101,7 +1119,7 @@
             "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-8-2000x1333.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1136,15 +1154,7 @@
           },
           "title": "A Thousand Million Reasons",
           "text": "<p>Lyric Video</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"></a>",
-          "_styles": {
-            "H3": {
-              "color": "#ffffff"
-            },
-            "P": {
-              "color": "#ffffff"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"></a>"
         },
         {
           "_tags": [
@@ -3592,7 +3602,7 @@
           "_anchor": "menu-0",
           "_params": {
             "bgColor": "#000000",
-            "fontSize": 0.75,
+            "fontSize": "0.75",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -3659,13 +3669,13 @@
             "overlay": true,
             "overlayOpacity": "0.3",
             "overlayColor": "#000",
-            "contentAlign": "center",
+            "contentAlign": "left",
             "showTitle": true,
             "showText": true,
             "showButtons": true
           },
           "title": "Alexandra Rivero",
-          "text": "“Wherever there is light, one can photograph.” -Alfred Stieglitz<br>",
+          "text": "“In the middle of every difficulty lies opportunity.” – Albert Einstein<br>",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"https://youtu.be/s5YItHKVwNo\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Watch My Story</a> "
         },
         {
@@ -3717,7 +3727,7 @@
             "showMeta": true
           },
           "title": "Photography",
-          "meta": "some samples of my photography skills"
+          "meta": "some samples of my photography skills..."
         },
         {
           "_inherit": "gallery1",
