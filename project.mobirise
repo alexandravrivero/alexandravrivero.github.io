@@ -1114,12 +1114,12 @@
           },
           "_anchor": "msg-box4-4w",
           "_params": {
-            "imageSize": 50,
+            "imageSize": "49",
             "paddingTop": "1",
-            "paddingBottom": "2",
-            "parallax": true,
+            "paddingBottom": "1",
+            "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-8-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-10-2000x1333.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1128,11 +1128,11 @@
             "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": "0.6",
-            "overlayColor": "#28324e",
+            "overlayColor": "#000000",
             "inverse": true,
             "showTitle": true,
-            "showText": true,
-            "showButtons": false
+            "showText": false,
+            "showButtons": true
           },
           "media": {
             "image": {
@@ -1153,8 +1153,8 @@
             }
           },
           "title": "A Thousand Million Reasons",
-          "text": "<p>Lyric Video</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"></a>"
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Full Video</a>"
         },
         {
           "_tags": [
@@ -3669,7 +3669,7 @@
             "overlay": true,
             "overlayOpacity": "0.3",
             "overlayColor": "#000",
-            "contentAlign": "left",
+            "contentAlign": "center",
             "showTitle": true,
             "showText": true,
             "showButtons": true
