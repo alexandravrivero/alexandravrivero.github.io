@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "premiere.html",
+    "currentPage": "index.html",
     "name": "alexandrarivero",
     "theme": {
       "name": "mobirise3",
@@ -295,7 +295,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/alexandra-rivero-gun-violence-2000x2815-800x1126.jpg",
-                "image": "@PROJECT_PATH@/assets/images/alexandra%20rivero%20gun%20violence-2000x2815.jpg",
+                "image": "@PROJECT_PATH@/assets/images/alexandra-rivero-gun-violence-2000x2815.jpg",
                 "caption": "Gun Violence Poster",
                 "active": true
               }
@@ -2317,7 +2317,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo%20small-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-small-128x1281.png",
               "width": 128,
               "active": true,
               "link": "index.html",
